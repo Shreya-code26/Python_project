@@ -8,4 +8,5 @@ A complete solution for your typing speed accuracy. With the help of this applic
 5. Sentences.txt: This text file contains a list of sentences separated by a new line.
 6. Speed tying.py: The main program file that contains all the code.
 7. Typing-speed-open.png: The image to display when the game starts.
+   
 ![image](https://github.com/user-attachments/assets/7e32858f-590f-4585-9e87-ef80f519c737)
